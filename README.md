@@ -3,11 +3,11 @@ A super simple app to recursively sync windows directory to phone - great for mo
 
 I grew tired of trying to move hundreds of GBs of Music around to various devices using existing windows CnP/DnD as it is horrible with large amounts of files. Using any commerical syncs apps is not something I wanted to do either.
 
-Only files that do not exist will be copied.
+Only files that do not exist will be copied.Cancel changes
 
 App uses: https://github.com/Bassman2/MediaDevices v1.8.0
 
-Usage: PotatoSync \<srcFolder> <dstFolder> <phoneFriendlyName>
+Usage: PotatoSync \<srcFolder> \<dstFolder> \<phoneFriendlyName>
   
 Example: PotatoSync c:\Music\Flac \Phone\Music\Flac\ "Galaxy Note9"
 
