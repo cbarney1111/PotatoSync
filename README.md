@@ -7,7 +7,7 @@ Only files that do not exist will be copied.
 
 App uses: https://github.com/Bassman2/MediaDevices v1.8.0
 
-Usage: PotatoSync <srcFolder> <dstFolder> <phoneFriendlyName>
+Usage: PotatoSync \<srcFolder> <dstFolder> <phoneFriendlyName>
   
 Example: PotatoSync c:\Music\Flac \Phone\Music\Flac\ "Galaxy Note9"
 
